@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Uday Sthapak
 
-<!--
-**UdaySthapak555/UdaySthapak555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 BCA Student at Galgotias University
 
-Here are some ideas to get you started:
+🚀 Aspiring Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Passionate about AI, Machine Learning & Web Development
+
+🌱 Currently learning MERN Stack & Data Structures
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 BCA Student at Galgotias University
+- 💻 Interested in Full Stack Development and AI/ML
+- 🚀 Building projects to improve my skills
+- 📍 India
+- 📫 Reach me: **uday555sthapak@gmail.com**
+
+---
+
+## 🛠️ Languages & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,javascript,react,nodejs,mongodb,git,github,vscode" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: https://linkedin.com/in/udaysthapak
+- 📧 Email: uday555sthapak@gmail.com
+
+⭐ Thanks for visiting my profile!
