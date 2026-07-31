@@ -1,11 +1,15 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Banner">
+  <img src="./banner.png" width="100%" alt="Uday Sthapak Banner"/>
 </p>
+
 <h1 align="center">Hi 👋, I'm Uday Sthapak</h1>
-<h3 align="center">💻 BCA Student | Full Stack Developer | AI & Machine Learning Enthusiast</h3>
+
+<h3 align="center">
+Full Stack Developer • AI & Machine Learning Enthusiast • BCA Student
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Things" />
+Building scalable web applications and intelligent software solutions.
 </p>
 
 ---
@@ -13,18 +17,65 @@
 ## 👨‍💻 About Me
 
 - 🎓 BCA Student at **Galgotias University**
-- 🌱 Currently learning **MERN Stack & DSA**
-- 🤖 Interested in **Artificial Intelligence & Machine Learning**
-- 💡 Love building real-world projects
-- 📫 Email: **uday555sthapak@gmail.com**
+- 🌱 Currently learning **MERN Stack, Data Structures & Algorithms**
+- 🤖 Exploring **Machine Learning & Natural Language Processing**
+- 💡 Passionate about building real-world software projects
+- 🎯 Seeking **Software Development & Full Stack Internships (2027)**
 
 ---
 
 ## 🚀 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,javascript,react,nodejs,mongodb,git,github,vscode&perline=6" />
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript" />
 </p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### AI / ML
+
+- Machine Learning
+- NLP
+- Scikit-learn
+- Pandas
+- NumPy
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,linux" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 📰 VeritasAI — Fake News Detection
+AI-powered fake news detection using Machine Learning & NLP.
+
+### 🎵 Music Genre Classification
+Predicts music genres using Machine Learning.
+
+### 🌦 Weather Prediction
+Weather prediction project with a modern web interface.
 
 ---
 
@@ -32,9 +83,9 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=UdaySthapak555&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=UdaySthapak555&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdaySthapak555&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdaySthapak555&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -43,23 +94,21 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=UdaySthapak555&theme=tokyonight"/>
-
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-
-<a href="https://linkedin.com/in/udaysthapak">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+<p align="left">
 
 <a href="mailto:uday555sthapak@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png" width="45"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/udaysthapak">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
@@ -67,7 +116,5 @@
 ---
 
 <p align="center">
-
-⭐ Thanks for visiting my profile ⭐
-
+⭐ Thanks for visiting my profile!
 </p>
