@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Banner">
+</p>
 <h1 align="center">Hi 👋, I'm Uday Sthapak</h1>
 <h3 align="center">💻 BCA Student | Full Stack Developer | AI & Machine Learning Enthusiast</h3>
 
